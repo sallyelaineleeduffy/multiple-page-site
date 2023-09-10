@@ -1,12 +1,13 @@
 body {
   text-align: center;
   padding: 20px;
-  background: #f8e8a6;
+  background: #43b02a;
+  color: white;
 }
 
 footer a {
   margin: 0 10px;
-  color: green;
+  color: white;
 }
 
 .croissant-photo {
